@@ -56,6 +56,7 @@ grid on;
 sgtitle('Impact of V2G Integration on Power Grid');
 ```
 ## OUTPUT
+<img width="1252" height="846" alt="Screenshot 2025-09-06 143914" src="https://github.com/user-attachments/assets/e26d165b-db7b-4530-9005-2cca186fdda5" />
 
 ## RESULT
 Thus the impact of V2G integration on the power grid is simulated
